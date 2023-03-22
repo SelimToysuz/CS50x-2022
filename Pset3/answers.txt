@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Because there is a big gap between sorted and reversed/random order and it is as fast as merge sort on sorted order.
+
+sort2 uses: merge sort
+
+How do you know?: Because it is the fastest of all and it's results are similar. There isn't remarkable a gap.
+
+sort3 uses: selection sort
+
+How do you know?: Because it is the slowest of all and it's results are similar. There isn't a remarkable gap.
